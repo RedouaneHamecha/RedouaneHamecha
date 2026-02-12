@@ -51,4 +51,34 @@ I specialize in bridging the gap between technical complexities and clear, actio
 
 I am always open to discussing data projects, IT challenges, or potential collaborations.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50">	Classique (Celui qu'on a essayé, lettres grises/bleues)
+<img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" height="50">	Icône Seule (Juste le symbole, très propre)
+V3	<img src="https://www.vectorlogo.zone/logos/vmware/vmware-ar21.svg" height="50">	Large & Moderne (Format rectangulaire officiel)
+V4	<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/VMware_vSphere_logo.png" height="50">	vSphere (Le logo spécifique vSphere)
+V5	<img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	Flat Blue (Le logo aplati, couleur bleu tech pur)
+V6	<img src="https://cdn.simpleicons.org/vmware/white" style="background-color:black" height="50">	White (Blanc pur - voir sur fond noir)
+V7	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/VMware_Workstation_Player_logo.png" height="50">	Workstation Player (Le logo orange/bleu du player)
+V8	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/VMware_Workstation_16_Pro_logo.png" height="50">	Workstation Pro (L'écran bleu, version Pro)
+V9	<img src="https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" height="50">	Badge (Style rectangulaire type "Bouton")
+V10	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/VMware_Horizon_7_logo.png/640px-VMware_Horizon_7_logo.png" height="50">
+
 * **Email:** redouane.hamecha00@gmail.com
