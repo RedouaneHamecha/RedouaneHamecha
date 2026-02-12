@@ -22,7 +22,7 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" style="background-color:white; border-radius:5px; padding:2px;" alt="sql server" />
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" alt="excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="powerbi" />
   <img width="15" />
@@ -38,9 +38,9 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" alt="docker" />
   <img width="15" />
-  <img src="https://www.svgrepo.com/show/354573/windows-server.svg" height="50" alt="windows server" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_Server_logo.svg" height="50" style="background-color:white; padding:3px; border-radius:4px;" alt="windows server" />
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50" alt="vmware" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50" alt="vmware" />
 </div>
 
 <p align="center">
